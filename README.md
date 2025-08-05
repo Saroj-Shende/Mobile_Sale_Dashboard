@@ -36,5 +36,6 @@ Interactive Visuals: Bar and line charts that update based on user selection for
 Performance Trends & Seasonality: Identify peak sales months and quarterly patterns for forecasting and planning.
 
 5. Screenshots / Demos
+   
 (https://github.com/Saroj-Shende/Mobile_Sale_Dashboard/blob/main/Mobile%20Sales%20Dashboard.png)
    
